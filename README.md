@@ -13,5 +13,3 @@
 * Use command line.
 * Develop locally on your computer.
 * Document the API using Swagge.
-
-
